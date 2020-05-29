@@ -1,0 +1,75 @@
+.site-header{
+    
+    color: #fff8f8;
+    height: 100vh;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    
+    
+}
+.profile-pic{
+    border-radius:15%;
+    height: 200px;
+    width: 200px;
+    align-self: center;
+}
+.site-text{
+    margin: 15px;
+}
+.teleLink{
+    color: #fff8f8;
+}
+.site-header .site-text .igLcFQ{
+
+    color: rgb(100, 255, 218);
+    font-size: 16px;
+    font-family: "SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", "Lucida Console", Monaco, monospace;
+    font-weight: normal;
+    margin: 0px 0px 20px 3px;
+}
+
+.gpVjtv{
+    font-size: 20px;
+    line-height: 1.1;
+    margin: 0px;
+}
+h2{
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+
+
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+    color: rgb(235, 239, 255);
+    margin: 0px 0px 10px;
+}
+.laBrLV {
+    font-size: 22px;
+    line-height: 1.1;
+    color: rgb(205, 205, 205);
+}
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+@media (max-width: 62.5em)
+<style>
+.laBrLV {
+    font-size: 70px;
+}
