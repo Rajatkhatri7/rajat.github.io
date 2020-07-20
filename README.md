@@ -1,3 +1,2 @@
-# rajatkhatri7.github.io
-
-This is my portfolio .It is currently under development
+# projects
+Website for the projects
