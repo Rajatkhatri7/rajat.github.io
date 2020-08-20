@@ -6009,7 +6009,10 @@ button.bg-primary:focus {
 }
 
 .bg-secondary {
-  background-color: aqua !important;
+  /* background-color: aqua !important; */
+  background-image: linear-gradient(50deg, #5994b6, #449e53);
+  /* background-image: linear-gradient(50deg, #5994b6, #c4a563); */
+
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
@@ -10002,7 +10005,8 @@ h3 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: black;
+    background-image: linear-gradient(50deg, #5994b6, #c4a563);
+    /* background: rgb(71, 67, 119); */
   }
 
   #mainNav.navbar-shrink {
